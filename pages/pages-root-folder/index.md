@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth:
-title: "SIGMA Lab @ USYD"
+title: "CV Lab @ HKU"
 
 #slider:
 #text_color: white
@@ -173,7 +173,7 @@ homepage: true
         content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
 
     
-  		{% include news_item.html  date="15-Sep-2017" content="Our lab established!" %}
+  		{% include news_item.html  date="1-Feb-2020" content="Our lab established!" %}
 
 
     </div>

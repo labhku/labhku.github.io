@@ -20,6 +20,22 @@ permalink: "/publication_type/"
 
 \[[sort by type](/publication_type/)\]	\[[sort by date](/publication/)\]
 
+
+
+# Conference Publications
+
+
+{%  include pub_item.html 
+    url="#"
+    img_path="shuyang_sun_fishnet.png"
+    title="FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction" 
+    author_list="Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang"
+    published_in="NeurIPS 2018"
+    code_url="https://github.com/kevin-ssy/FishNet"
+    blog_post="#"
+%}
+
+
 # Journal Publications
 
 {%  include pub_item.html 
@@ -37,16 +53,3 @@ permalink: "/publication_type/"
     author_list="Guo Lu, Xiaoyun Zhang, Wanli Ouyang, Dong Xu, Li Chen, and Zhiyong Gao"
     published_in="Trans. Image Process. (TIP), accepted Sept., 2019."
 %}  
-
-# Conference Publications
-
-
-{%  include pub_item.html 
-    url="#"
-    img_path="shuyang_sun_fishnet.png"
-    title="FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction" 
-    author_list="Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang"
-    published_in="NeurIPS 2018"
-    code_url="https://github.com/kevin-ssy/FishNet"
-    blog_post="#"
-%}
