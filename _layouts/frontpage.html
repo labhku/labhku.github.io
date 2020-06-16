@@ -2,23 +2,20 @@
 layout: default
 format: frontpage
 ---
-<div id="header-home">
+<div class="main-container">
+    <div id="header-home">
     <div class="row">
         <div class="">
 
              <div class="" style="/* margin-top: 15px */">
-  
-                  <div class="head-image" style="">
+                <div class="head-image" style="">
                    <div class="head">
-    			<div class="small-9 head-text"> <h1 style="color: #FFFFFF;" id="main-title"> CV Lab </h1>
-   				<h3 class="" style="" id="sub-title"> <span>C</span>omputer <span>V</span>ision <br>The University of Hong Kong </h3>
-			</div>
-			<div class="small-3"> </div>
-		   </div>
-                  </div>
-    
+                        <div class="small-9 head-text"> <h1 style="color: #FFFFFF;" id="main-title"> CV Lab </h1>
+                            <h3 class="" style="" id="sub-title"> <span>C</span>omputer <span>V</span>ision <br>The University of Hong Kong </h3>
+                        </div>
+                   </div>
+                </div>
             </div>
-
         </div><!-- /.medium-4.columns -->
     </div><!-- /.row -->
 </div><!-- /#header-home -->
@@ -45,19 +42,19 @@ format: frontpage
     {% if page.slider %}
             {% include slider.html height="50" unit="%" transition="slide" duration="7" %}
             {% endif %}
-	{% if page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
-	{% endif %}
+    {% if page.widget1.title %}
+        {% include _frontpage-widget.html widget=page.widget1 %}
+    {% endif %}
 
 
-	{% if page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
-	{% endif %}
+    {% if page.widget2.title %}
+        {% include _frontpage-widget.html widget=page.widget2 %}
+    {% endif %}
 
 
-	{% if page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
-	{% endif %}
+    {% if page.widget3.title %}
+        {% include _frontpage-widget.html widget=page.widget3 %}
+    {% endif %}
 </div><!-- /.row -->
 
 
@@ -139,3 +136,5 @@ format: frontpage
 {% endcomment %}
 
 
+
+</div>
