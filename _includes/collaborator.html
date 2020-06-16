@@ -1,3 +1,7 @@
 <div class="row">
-		<div class="small-12"><a href="{{ include.url }}">{{ include.name }}</a> ({{include.affil}})</div>
+		<div class="small-12"><a href="{{ include.url }}">{{ include.name }}</a> 
+		{% if include.affil %}
+			({{include.affil}})
+		{% endif %}
+	</div>
 </div>
