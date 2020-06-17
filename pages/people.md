@@ -75,13 +75,13 @@ permalink: "/people/"
 
 ---
 
-<div class="row">
-	<div class="row">
+<div class="">
+	<div class="">
 		<h3 class="medium-12">Undergraduate & Master Students</h3>
 		<br/>
 	</div>
 
-	<div class="row">
+	<div class="">
 	    {% include collaborator.html url = "" name="Fernando Julio Cendra" affil="B.E. at HKU" %}
 
 	    {% include collaborator.html url = "" name="Ruifei He" affil="B.E. at ZJU" %}
