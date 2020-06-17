@@ -36,7 +36,7 @@ permalink: "/people/"
 	
 	<div class="row">
 
-		{% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D." title="B.E., M.E UESTC" %}
+		{% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D., HKPF" title="B.E., M.E UESTC" %}
 
 		{% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D." title="B.E. Tsinghua" %}
 
