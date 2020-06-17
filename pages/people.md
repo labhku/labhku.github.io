@@ -61,7 +61,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Postdoc and Research Asst.</h3>
+		<h3 class="medium-12">Postdoc and Research Assistant</h3>
 		<br/>
 	</div>
 	
@@ -95,8 +95,6 @@ permalink: "/people/"
 	    {% include collaborator.html url = "" name="Mingqiao Ye" affil="B.E. at ZJU" %}
 	</div>
 </div>
-
----
 
 ---
 
