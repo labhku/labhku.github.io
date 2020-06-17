@@ -100,7 +100,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Previous Mentorship</h3>
+		<h3 class="medium-12"> Previous Mentorship</h3>
 		<br/>
 	</div>
 
@@ -115,7 +115,7 @@ permalink: "/people/"
 
        {% include collaborator.html url = "https://scholar.google.com/citations?user=5cIodxsAAAAJ&hl=en" name="Li Jiang" affil="Ph.D. at CUHK" %}
 
-       {% include collaborator.html url = "https://hszhao.github.io/" name="Hengshuang Zhao" affil="Ph.D. at CUHK" 
+       {% include collaborator.html url = "https://hszhao.github.io/" name="Hengshuang Zhao" affil="Ph.D. at CUHK" %}
 
 	</div>
 </div>
