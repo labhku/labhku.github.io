@@ -80,23 +80,23 @@ homepage: true
           {% include carousel_item.html  active="true" 
              url="http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf" 
              image="images/images_for_pub/3dgnn.png" 
-             alt="3D representation learning" 
-             title="3D representation learning" 
-             caption="3D representation learning" %}
+             alt="3D scene understanding" 
+             title="3D scene understanding" 
+             caption="We aim at developing technologies for representation learning with 3D data (e.g., point clouds); RGB-D/3D semantic understanding (e.g., semantic segmentation, object detection, and instance segmentation) and registration  tasks." %}
 
           {% include carousel_item.html  
              url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Semi-Parametric_Image_Synthesis_CVPR_2018_paper.pdf" 
              image="images/images_for_pub/data_efficient.png" 
              alt="Data efficient deep learning" 
              title="Data efficient deep learning" 
-             caption="Data efficient deep learning: image data generation, efficient annotation and label-efficient learning" %}
+             caption="We are interested in high-quality data synthesis methods, efficient image annotation systems and label-efficient learning strategies (e.g., self-supervised learning, weakly supervised learning and semi-supervised learning)." %}
 
           {% include carousel_item.html  
              url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf" 
              image="images/images_for_pub/high_quality_3d.png"
-             alt="High-quality 3D estimation beyond sensor." 
-             title="High-quality 3D estimation beyond sensor." 
-             caption="High-quality 3D estimation beyond sensor." %}
+             alt="High-quality 3D reconstruction." 
+             title="High-quality 3D reconstruction." 
+             caption="We are dedicated to pushing the boudaries of 3D sensing with learning-based approaches, e.g. 3D object & scene reconstruction from a single image or videos; and sparse-to-dense or depth completion to enhance depth sensing quality." %}
         </div>
 
         <!-- Left and right controls -->
