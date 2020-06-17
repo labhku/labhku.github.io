@@ -75,8 +75,8 @@ permalink: "/people/"
 
 ---
 
-<div class="">
-	<div class="">
+<div class="row">
+	<div class="row">
 		<h3 class="medium-12">Undergraduate & Master Students</h3>
 		<br/>
 	</div>
