@@ -63,12 +63,12 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Visiting Students</h3>
+		<h3 class="medium-12">Undergraduate/Master Student</h3>
 		<br/>
 	</div>
 
 	<div class="row">
-		{% include member.html photo="" name="" title="" %}
+		{% include member.html photo="" name="Chexuan Qiao" title="B.S. at HKU" %}
 		{% include member.html photo="" name="" title="" %}
 		{% include member.html photo="" name="" title="" %}
 		{% include member.html photo="" name="" title="" %}
