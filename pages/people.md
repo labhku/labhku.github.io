@@ -48,7 +48,7 @@ permalink: "/people/"
 
 	<div class="row">
 	
-		{% include member.html photo="" name="" title="" %}
+		{% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang, Ph.D." title="B.E. SYSU" %}
 
 		{% include member.html photo="" name="" title="" %}
 
