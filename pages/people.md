@@ -36,13 +36,13 @@ permalink: "/people/"
 	
 	<div class="row">
 
-		{% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D." title="B.S., M.S: UESTC" %}
+		{% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D." title="Degree: B.E., M.E UESTC" %}
 
-		{% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D." title="B.E. THU" %}
+		{% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D." title="Degree: B.E. THU" %}
 
-		{% include member.html photo="../images/people/xiuzhe.jpg" name="Xiuzhe Wu, Ph.D." title="B.S., M.S. Tongji" %}
+		{% include member.html photo="../images/people/xiuzhe.jpg" name="Xiuzhe Wu, Ph.D." title="Degree: B.S., M.S. Tongji" %}
 
-		{% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang, Ph.D." title="B.S. SYSU" %}
+		{% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang, Ph.D." title="Degree: B.E. SYSU" %}
 
 	</div>
 
