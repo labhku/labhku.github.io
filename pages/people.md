@@ -98,6 +98,32 @@ permalink: "/people/"
 
 ---
 
+---
+
+<div class="row">
+	<div class="row">
+		<h3 class="medium-12">Previous Mentorship</h3>
+		<br/>
+	</div>
+
+	<div class="">
+	   {% include collaborator.html url = "https://www.linkedin.com/in/botos-csaba/" name="Csaba Botos" affil="Ph.D. at Oxford" %}
+    
+       {% include collaborator.html url = "https://scholar.google.com.hk/citations?user=dDj0MQEAAAAJ&hl=zh-CN" name="Bowen Li" affil="Ph.D. at Oxford" %}
+
+       {% include collaborator.html url = "https://qizhuli.github.io/" name="Qizhu Li" affil="Ph.D. at Oxford" %}
+
+       {% include collaborator.html url = "https://dblp.org/pers/l/Lin:Huaijia.html" name="Huaijia Lin" affil="Ph.D. at CUHK" %}
+
+       {% include collaborator.html url = "https://scholar.google.com/citations?user=5cIodxsAAAAJ&hl=en" name="Li Jiang" affil="Ph.D. at CUHK" %}
+
+       {% include collaborator.html url = "https://hszhao.github.io/" name="Hengshuang Zhao" affil="Ph.D. at CUHK" 
+
+	</div>
+</div>
+
+---
+
 <div class="row">
 	<div class="row">
 		<h3 class="medium-12">Alumni</h3>
