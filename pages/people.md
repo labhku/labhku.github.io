@@ -68,10 +68,17 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-		{% include collaborator.html name="Chexuan Qiao" affil="B.S. at HKU" %}
-		{% include member.html photo="" name="" title="" %}
-		{% include member.html photo="" name="" title="" %}
-		{% include member.html photo="" name="" title="" %}
+	    {% include collaborator.html url = "" name="Fernando Julio Cendra" affil="B.S. at HKU" %}
+
+	    {% include collaborator.html url = "" name="Ruifei He" affil="B.E. at ZJU" %}
+
+        {% include collaborator.html url = "" name="Qihao Huang" affil="M.S. at HKU" %}
+
+		{% include collaborator.html url = "" name="Chexuan Qiao" affil="B.S. at HKU" %}
+
+	    {% include collaborator.html url = "" name="Yuzhe Zhou" affil="M.S. at HKU" %}
+
+	    {% include collaborator.html url = "" name="Mingqiao Ye" affil="B.E. at ZJU" %}
 	</div>
 </div>
 
