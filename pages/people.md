@@ -67,7 +67,7 @@ permalink: "/people/"
 	
 	<div class="row">
 
-		{% include member.html photo="../images/people/mutian.jpg" name="Research Asst." title="B.E., Xidian M.E., UC Irvine" %}
+		{% include member.html photo="../images/people/mutian.jpg" name="Mutian Xu, RA" title="B.E., Xidian M.E., UC Irvine" %}
 
 	</div>
 	
