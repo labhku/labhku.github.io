@@ -82,7 +82,7 @@ permalink: "/people/"
 	</div>
 
 	<div class="">
-	    {% include undergraduate.html url = "" name="Fernando Julio Cendra" affil="B.E. at HKU" %}
+	    {% include undergraduate.html url = "" name="Cendra Julio Fernando" affil="B.E. at HKU" %}
 
 	    {% include undergraduate.html url = "" name="Ruifei He" affil="B.E. at ZJU" %}
 
