@@ -107,7 +107,7 @@ permalink: "/people/"
 	<div class="">
 	   {% include collaborator.html url = "https://www.linkedin.com/in/botos-csaba/" name="Csaba Botos" affil="Ph.D. at Oxford" %}
     
-       {% include collaborator.html url = "https://scholar.google.com.hk/citations?user=dDj0MQEAAAAJ&hl=zh-CN" name="Bowen Li" affil="Ph.D. at Oxford" %}
+       {% include collaborator.html url = "https://mrlibw.github.io/" name="Bowen Li" affil="Ph.D. at Oxford" %}
 
        {% include collaborator.html url = "https://qizhuli.github.io/" name="Qizhu Li" affil="Ph.D. at Oxford" %}
 
