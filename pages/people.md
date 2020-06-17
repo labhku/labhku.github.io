@@ -59,6 +59,20 @@ permalink: "/people/"
 	
 </div>
 
+<div class="row">
+	<div class="row">
+		<h3 class="medium-12">Postdoc and Research Asst.</h3>
+		<br/>
+	</div>
+	
+	<div class="row">
+
+		{% include member.html photo="../images/people/mutian.jpg" name="Research Asst." title="B.E., Xidian M.E UC Irvine" %}
+
+	</div>
+	
+</div>
+
 ---
 
 <div class="row">
@@ -68,13 +82,13 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-	    {% include collaborator.html url = "" name="Fernando Julio Cendra" affil="B.S. at HKU" %}
+	    {% include collaborator.html url = "" name="Fernando Julio Cendra" affil="B.E. at HKU" %}
 
 	    {% include collaborator.html url = "" name="Ruifei He" affil="B.E. at ZJU" %}
 
         {% include collaborator.html url = "" name="Qihao Huang" affil="M.S. at HKU" %}
 
-		{% include collaborator.html url = "" name="Chexuan Qiao" affil="B.S. at HKU" %}
+		{% include collaborator.html url = "" name="Chexuan Qiao" affil="B.E. at HKU" %}
 
 	    {% include collaborator.html url = "" name="Yuzhe Zhou" affil="M.S. at HKU" %}
 
