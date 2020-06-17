@@ -63,7 +63,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Undergraduate/Master Student</h3>
+		<h3 class="medium-12">Undergraduate & Master Students</h3>
 		<br/>
 	</div>
 
