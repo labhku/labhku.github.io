@@ -117,6 +117,14 @@ permalink: "/publication/"
     published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
 %} 
 
+{%  include pub_item.html 
+    url="http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf"
+    img_path="3dgnn.png"
+    title="3D Graph Neural Networks for RGBD Semantic Segmentation" 
+    author_list="Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun"
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
+%}
+
 
 
 
