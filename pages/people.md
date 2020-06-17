@@ -40,9 +40,9 @@ permalink: "/people/"
 
 		{% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding" title="Ph.D. Student" %}
 
-		{% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang" title="Ph.D. Student" %}
-
 		{% include member.html photo="../images/people/xiuzhe.jpg" name="Xiuzhe Wu" title="Ph.D. Student" %}
+
+		{% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang" title="Ph.D. Student" %}
 
 	</div>
 
