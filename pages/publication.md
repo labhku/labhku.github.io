@@ -55,7 +55,7 @@ permalink: "/publication/"
 
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Improved_Techniques_for_Training_Adaptive_Deep_Networks_ICCV_2019_paper.pdf"
-    img_path="adaptive.png"
+    img_path="improved.png"
     title="Improved Techniques for Training Adaptive Deep Networks" 
     author_list="Hao Li, Hong Zhang, Xiaojuan Qi, Ruigang Yang, Gao Huang"
     published_in="IEEE International Conference on Computer Vision (ICCV), 2019."
@@ -117,13 +117,6 @@ permalink: "/publication/"
     published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
 %} 
 
-{%  include pub_item.html 
-    url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Semi-Parametric_Image_Synthesis_CVPR_2018_paper.pdf"
-    img_path="data_efficient.png"
-    title="Semi-parametric Image Synthesis" 
-    author_list="Xiaojuan Qi, Qifeng Chen, Jiaya Jia, Vladlen Koltun"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
-%}  
 
 
 
