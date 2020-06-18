@@ -94,8 +94,8 @@ homepage: true
           {% include carousel_item.html  
              url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf" 
              image="images/images_for_pub/high_quality_3d.png"
-             alt="High-quality 3D Reconstruction." 
-             title="High-quality 3D Reconstruction." 
+             alt="High-quality 3D Reconstruction" 
+             title="High-quality 3D Reconstruction" 
              caption="We are dedicated to pushing the boundaries of 3D sensing with learning-based approaches, e.g. 3D object & scene reconstruction from a single image or videos; and sparse-to-dense or depth completion to enhance depth-sensing quality." %}
         </div>
 
@@ -116,13 +116,14 @@ homepage: true
   <!-- carrousel on mobile devices -->
   <div class="column small-12 mobile">
     
-    <!-- carousel -->
-    <div id="myCarousel-mobile" class="carousel slide" data-ride="carousel" style="">
+    <!-- carrousel -->
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" style="">
         <!-- Indicators -->
         <ol class="carousel-indicators">
-          <li data-target="#myCarousel-mobile" data-slide-to="0" class="active"></li>
-          <li data-target="#myCarousel-mobile" data-slide-to="1"></li>
-          <li data-target="#myCarousel-mobile" data-slide-to="2"></li>
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -130,37 +131,36 @@ homepage: true
           {% include carousel_item.html  active="true" 
              url="http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf" 
              image="images/images_for_pub/3dgnn.png" 
-             alt="3D representation learning" 
-             title="3D representation learning" 
-             caption="3D representation learning" %}
+             alt="3D Scene Understanding" 
+             title="3D Scene Understanding" 
+             caption="We aim at developing technologies for representation learning with 3D data (e.g. point clouds); RGB-D/3D semantic understanding (e.g. semantic segmentation, object detection, and instance segmentation) and registration  tasks." %}
 
           {% include carousel_item.html  
              url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Semi-Parametric_Image_Synthesis_CVPR_2018_paper.pdf" 
              image="images/images_for_pub/data_efficient.png" 
-             alt="Data efficient deep learning" 
-             title="Data efficient deep learning" 
-             caption="Data efficient deep learning: image data generation, efficient annotation and label-efficient learning" %}
+             alt="Data-efficient Deep Learning" 
+             title="Data-efficient Deep Learning" 
+             caption="We are interested in high-quality data synthesis methods, efficient image annotation systems, and label-efficient learning strategies (e.g. self-supervised learning, weakly supervised learning, domain adaptation, and semi-supervised learning, etc)." %}
 
           {% include carousel_item.html  
              url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf" 
              image="images/images_for_pub/high_quality_3d.png"
-             alt="High-quality 3D estimation beyond sensor." 
-             title="High-quality 3D estimation beyond sensor." 
-             caption="High-quality 3D estimation beyond sensor." %}
+             alt="High-quality 3D Reconstruction" 
+             title="High-quality 3D Reconstruction" 
+             caption="We are dedicated to pushing the boundaries of 3D sensing with learning-based approaches, e.g. 3D object & scene reconstruction from a single image or videos; and sparse-to-dense or depth completion to enhance depth-sensing quality." %}
         </div>
 
         <!-- Left and right controls -->
-        <a class="left carousel-control" href="#myCarousel-mobile" data-slide="prev">
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
           <span class="glyphicon glyphicon-chevron-left"></span>
           <span class="sr-only">Previous</span>
         </a>
-        <a class="right carousel-control" href="#myCarousel-mobile" data-slide="next">
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
           <span class="glyphicon glyphicon-chevron-right"></span>
           <span class="sr-only">Next</span>
         </a>
     </div>
   </div>
-
 
 
 

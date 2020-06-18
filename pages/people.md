@@ -67,7 +67,7 @@ permalink: "/people/"
 	
 	<div class="row">
 
-		{% include member.html photo="../images/people/mutian.jpg" name="Mutian Xu, RA" title="B.E., Xidian M.E., UC Irvine" %}
+		{% include member.html photo="../images/people/mutian.jpg" name="Mutian Xu, RA" title="B.E., Xidian M.S., UC Irvine" homepage="https://mutianxu.github.io/" %}
 
 	</div>
 	
@@ -114,6 +114,9 @@ permalink: "/people/"
        {% include collaborator.html url = "https://dblp.org/pers/l/Lin:Huaijia.html" name="Huaijia Lin" affil="Ph.D. at CUHK" %}
 
        {% include collaborator.html url = "https://scholar.google.com/citations?user=5cIodxsAAAAJ&hl=en" name="Li Jiang" affil="Ph.D. at CUHK" %}
+
+       {% include collaborator.html url = "https://scholar.google.com/citations?user=OOagpAcAAAAJ&hl=en" name="Ruizheng Wu" affil="Ph.D. at CUHK" %}
+
 
        {% include collaborator.html url = "https://hszhao.github.io/" name="Hengshuang Zhao" affil="Ph.D. at CUHK" %}
 
