@@ -38,10 +38,20 @@ permalink: "/publication/"
 
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_ManiGAN_Text-Guided_Image_Manipulation_CVPR_2020_paper.pdf"
+    code_url="https://github.com/mrlibw/ManiGAN"
     img_path="manigan.png"
     title="ManiGAN: Text-Guided Image Manipulation" 
     author_list="Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H.S. Torr"
     published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020."
+%}
+
+{%  include pub_item.html 
+    url="https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf"
+    code_url="https://github.com/mrlibw/ControlGAN"
+    img_path="controlgan.png"
+    title="Controllable Text-to-Image Generation" 
+    author_list="Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H. S. Torr"
+    published_in="Conference on Neural Information Processing Systems (NeurIPS), 2019."
 %}
 
 {%  include pub_item.html 
@@ -71,6 +81,7 @@ permalink: "/publication/"
 
 {%  include pub_item.html 
     url="https://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf"
+    code_url="https://github.com/shepnerd/inpainting_gmcnn"
     img_path="inpaint.png"
     title="Image Inpainting via Generative Multi-columnConvolutional Neural Networks" 
     author_list="Yi Wang, Xin Tao, Xiaojuan Qi, Xiaoyong Shen, Jiaya Jia"
@@ -80,6 +91,7 @@ permalink: "/publication/"
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_ICNet_for_Real-Time_ECCV_2018_paper.pdf"
     img_path="icnet.png"
+    code_url="https://github.com/hszhao/ICNet"
     title="ICNet for Real-Time Semantic Segmentation on High-Resolution Images" 
     author_list="Hengshuang Zhao, Xiaojuan Qi, Xiaoyong Shen, Jianping Shi, Jiaya Jia"
     published_in="European Conference on Computer Vision (ECCV), 2018."
@@ -97,13 +109,14 @@ permalink: "/publication/"
     url="http://delivery.acm.org/10.1145/3250000/3240530/p145-liu.pdf?ip=129.67.95.205&id=3240530&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EF2FAECDC86A918EB%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1547042293_ce3628fae4da448c78d961f9665d1cef"
     img_path="sign.png"
     title="Self-Boosted Gesture Interactive System with ST-Net" 
-    author_list="Zhengzhe Liu, Xiaojuan Qi, Lei Pang"
+    author_list="Zhengzhe Liu^, Xiaojuan Qi^, Lei Pang"
     published_in="ACM Multimedia Conference (ACM MM), 2018."
 %}
 
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf"
     img_path="high_quality_3d.png"
+    code_url="https://github.com/xjqi/GeoNet"
     title="GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation" 
     author_list="Xiaojuan Qi, Renjie Liao, Zhengzhe Liu, Raquel Urtasun, Jiaya Jia"
     published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
@@ -119,6 +132,7 @@ permalink: "/publication/"
 
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Semi-Parametric_Image_Synthesis_CVPR_2018_paper.pdf"
+    code_url = "https://github.com/xjqicuhk/SIMS"
     img_path="semiparam.png"
     title="Semi-parametric Image Synthesis" 
     author_list="Xiaojuan Qi, Qifeng Chen, Jiaya Jia, Vladlen Koltun"
@@ -127,6 +141,7 @@ permalink: "/publication/"
 
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.pdf"
+    code_url ="https://hszhao.github.io/projects/pspnet/index.html"
     img_path="psp.png"
     title="Pyramid Scene Parsing Network" 
     author_list="Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia"
@@ -136,6 +151,7 @@ permalink: "/publication/"
 
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf"
+    code_url="https://github.com/xjqicuhk/3DGNN"
     img_path="3dgnn.png"
     title="3D Graph Neural Networks for RGBD Semantic Segmentation" 
     author_list="Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun"
@@ -173,7 +189,7 @@ permalink: "/publication/"
     url="https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11789/11718"
     img_path="micro.png"
     title="Deep Contextual Networks for Neuronal Structure Segmentation" 
-    author_list="Hao Chen\*, Xiaojuan Qi\*, Jie-Zhi Cheng,  Pheng-Ann Heng"
+    author_list="Hao Chen^, Xiaojuan Qi^, Jie-Zhi Cheng,  Pheng-Ann Heng"
     published_in="Association for the Advancement of Artificial Intelligence (AAAI), 2016 (Oral)."
 %} 
 
