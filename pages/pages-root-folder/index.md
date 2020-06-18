@@ -170,7 +170,7 @@ homepage: true
     <div class="list-group" style="margin-left=0; max-height: inherit; overflow-y: auto;">
     {% include news_item.html 
         highlight="true" date="Always"
-        content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skill are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
+        content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skills are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
 
     
   		{% include news_item.html  date="1-Feb-2020" content="Our lab established!" %}
@@ -183,12 +183,15 @@ homepage: true
 <div class="column small-12 mobile">
     <br>
     <h3>News</h3>
-    <div class="list-group" style="margin-left=0">
-      {% include news_item.html 
+    <div class="list-group" style="margin-left=0; max-height: inherit; overflow-y: auto;">
+      
+    {% include news_item.html 
         highlight="true" date="Always"
-        content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skill are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
+        content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skills are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
 
-      {% include news_item.html  date="15-Sep-2017" content="Our lab established!" %}
+    
+      {% include news_item.html  date="1-Feb-2020" content="Our lab established!" %}
+
 
     </div>
     <h3 class="mobile"> Our Research </h3>
