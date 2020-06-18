@@ -110,20 +110,81 @@ permalink: "/publication/"
 %}  
 
 {%  include pub_item.html 
+    url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf"
+    img_path="refer.png"
+    title="Referring Image Segmentation via Recurrent Refinement Networks" 
+    author_list="Ruiyu Li, Kaican Li, Yi-Chun Kuo, Michelle Shu, Xiaojuan Qi, Xiaoyong Shen, Jiaya Jia"
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
+%}  
+
+{%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Semi-Parametric_Image_Synthesis_CVPR_2018_paper.pdf"
     img_path="semiparam.png"
     title="Semi-parametric Image Synthesis" 
     author_list="Xiaojuan Qi, Qifeng Chen, Jiaya Jia, Vladlen Koltun"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018 (Oral)."
 %} 
+
+{%  include pub_item.html 
+    url="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.pdf"
+    img_path="psp.png"
+    title="Pyramid Scene Parsing Network" 
+    author_list="Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia"
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017."
+%} 
+
 
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf"
     img_path="3dgnn.png"
     title="3D Graph Neural Networks for RGBD Semantic Segmentation" 
     author_list="Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
+    published_in="IEEE International Conference on Computer Vision (ICCV), 2017 (Oral)."
 %}
+
+
+{%  include pub_item.html 
+    url="https://link.springer.com/chapter/10.1007%2F978-3-319-46484-8_6"
+    img_path="weak.png"
+    title="Augmented Feedback in Semantic Segmentation under Image Level Supervision" 
+    author_list="Xiaojuan Qi, Zhengzhe Liu, Jianping Shi, Jiaya Jia"
+    published_in="European Conference on Computer Vision (ECCV), 2016."
+%} 
+
+
+{%  include pub_item.html 
+    url="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_DCAN_Deep_Contour-Aware_CVPR_2016_paper.pdf"
+    img_path="dcan.png"
+    title="DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation" 
+    author_list="Hao Chen, Xiaojuan Qi, Lequan Yu, Pheng-Ann Heng"
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016."
+%} 
+
+
+{%  include pub_item.html 
+    url="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Multi-Scale_Patch_Aggregation_CVPR_2016_paper.pdf"
+    img_path="mpa.png"
+    title="Multi-scale Patch Aggregation (MPA)for Simultaneous Detection and Segmentation" 
+    author_list="Shu Liu, Xiaojuan Qi, Jianping Shi, Hong Zhang, Jiaya Jia"
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 (Oral)."
+%} 
+
+{%  include pub_item.html 
+    url="https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11789/11718"
+    img_path="micro.png"
+    title="Deep Contextual Networks for Neuronal Structure Segmentation" 
+    author_list="Hao Chen\*, Xiaojuan Qi\*, Jie-Zhi Cheng,  Pheng-Ann Heng"
+    published_in="Association for the Advancement of Artificial Intelligence (AAAI), 2016 (Oral)."
+%} 
+
+{%  include pub_item.html 
+    url="http://openaccess.thecvf.com/content_iccv_2015/papers/Qi_Semantic_Segmentation_With_ICCV_2015_paper.pdf"
+    img_path="object.png"
+    title="Semantic Segmentation With Object Clique Potentials" 
+    author_list="Xiaojuan Qi, Jianping Shi, Shu Liu, Renjie Liao, Jiaya Jia"
+    published_in="IEEE International Conference on Computer Vision (ICCV), 2015."
+%} 
+
 
 
 
