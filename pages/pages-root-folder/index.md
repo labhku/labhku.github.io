@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth:
-title: "CV Lab @ HKU"
+title: "CVMI Lab @ HKU"
 
 #slider:
 #text_color: white
