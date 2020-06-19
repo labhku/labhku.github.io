@@ -20,19 +20,19 @@ permalink: "/publication/"
 
 [[sort by date][1]]	[[sort by type][2]]
 
+ {%  include pub_item.html 
+    url="https://arxiv.org/pdf/2001.04982.pdf"
+    img_path="panoptic.png"
+    title="Unifying Training and Inference for Panoptic Segmentation" 
+    author_list="Qizhu Li, Xiaojuan Qi, Philip H.S. Torr"
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020."
+%} 
+
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Global_Texture_Enhancement_for_Fake_Face_Detection_in_the_Wild_CVPR_2020_paper.pdf"
     img_path="fake_real.png"
     title="Global Texture Enhancement for Fake Face Detection in the Wild" 
     author_list="Zhengzhe Liu, Xiaojuan Qi, Philip H.S. Torr"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020."
-%}  
-
-{%  include pub_item.html 
-    url="https://arxiv.org/pdf/2001.04982.pdf"
-    img_path="panoptic.png"
-    title="Unifying Training and Inference for Panoptic Segmentation" 
-    author_list="Qizhu Li, Xiaojuan Qi, Philip H.S. Torr"
     published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020."
 %} 
 
@@ -67,7 +67,7 @@ permalink: "/publication/"
     url="http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Improved_Techniques_for_Training_Adaptive_Deep_Networks_ICCV_2019_paper.pdf"
     img_path="improved.png"
     title="Improved Techniques for Training Adaptive Deep Networks" 
-    author_list="Hao Li, Hong Zhang, Xiaojuan Qi, Ruigang Yang, Gao Huang"
+    author_list="Hao Li^, Hong Zhang^, Xiaojuan Qi, Ruigang Yang, Gao Huang"
     published_in="IEEE International Conference on Computer Vision (ICCV), 2019."
 %}
 
@@ -75,8 +75,8 @@ permalink: "/publication/"
     url="http://openaccess.thecvf.com/content_CVPR_2019/papers/Qi_3D_Motion_Decomposition_for_RGBD_Future_Dynamic_Scene_Synthesis_CVPR_2019_paper.pdf"
     img_path="3dmotion.png"
     title="3D Motion Decomposition for RGBD Future Dynamic Scene Synthesis" 
-    author_list="Xiaojuan Qi, Zhengzhe Liu, Qifeng Chen, Jiaya Jia"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
+    author_list="Xiaojuan Qi^, Zhengzhe Liu^, Qifeng Chen, Jiaya Jia"
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2019."
 %}
 
 {%  include pub_item.html 
