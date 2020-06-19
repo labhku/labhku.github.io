@@ -25,7 +25,7 @@ permalink: "/publication/"
     img_path="panoptic.png"
     title="Unifying Training and Inference for Panoptic Segmentation" 
     author_list="Qizhu Li, Xiaojuan Qi, Philip H.S. Torr"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020."
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020."
 %} 
 
 {%  include pub_item.html 
@@ -33,7 +33,7 @@ permalink: "/publication/"
     img_path="fake_real.png"
     title="Global Texture Enhancement for Fake Face Detection in the Wild" 
     author_list="Zhengzhe Liu, Xiaojuan Qi, Philip H.S. Torr"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020."
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020."
 %} 
 
 {%  include pub_item.html 
@@ -42,7 +42,7 @@ permalink: "/publication/"
     img_path="manigan.png"
     title="ManiGAN: Text-Guided Image Manipulation" 
     author_list="Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H.S. Torr"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020."
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020."
 %}
 
 {%  include pub_item.html 
@@ -76,7 +76,7 @@ permalink: "/publication/"
     img_path="3dmotion.png"
     title="3D Motion Decomposition for RGBD Future Dynamic Scene Synthesis" 
     author_list="Xiaojuan Qi^, Zhengzhe Liu^, Qifeng Chen, Jiaya Jia"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2019."
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019."
 %}
 
 {%  include pub_item.html 
@@ -119,7 +119,7 @@ permalink: "/publication/"
     code_url="https://github.com/xjqi/GeoNet"
     title="GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation" 
     author_list="Xiaojuan Qi, Renjie Liao, Zhengzhe Liu, Raquel Urtasun, Jiaya Jia"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018."
 %}  
 
 {%  include pub_item.html 
@@ -127,7 +127,7 @@ permalink: "/publication/"
     img_path="refer.png"
     title="Referring Image Segmentation via Recurrent Refinement Networks" 
     author_list="Ruiyu Li, Kaican Li, Yi-Chun Kuo, Michelle Shu, Xiaojuan Qi, Xiaoyong Shen, Jiaya Jia"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018."
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018."
 %}  
 
 {%  include pub_item.html 
@@ -136,7 +136,7 @@ permalink: "/publication/"
     img_path="semiparam.png"
     title="Semi-parametric Image Synthesis" 
     author_list="Xiaojuan Qi, Qifeng Chen, Jiaya Jia, Vladlen Koltun"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018 (Oral)."
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)."
 %} 
 
 {%  include pub_item.html 
