@@ -29,14 +29,6 @@ permalink: "/publication/"
 %} 
 
 {%  include pub_item.html 
-    url="http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Global_Texture_Enhancement_for_Fake_Face_Detection_in_the_Wild_CVPR_2020_paper.pdf"
-    img_path="fake_real.png"
-    title="Global Texture Enhancement for Fake Face Detection in the Wild" 
-    author_list="Zhengzhe Liu, Xiaojuan Qi, Philip H.S. Torr"
-    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020."
-%} 
-
-{%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_ManiGAN_Text-Guided_Image_Manipulation_CVPR_2020_paper.pdf"
     code_url="https://github.com/mrlibw/ManiGAN"
     img_path="manigan.png"
@@ -44,6 +36,15 @@ permalink: "/publication/"
     author_list="Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H.S. Torr"
     published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020."
 %}
+
+
+{%  include pub_item.html 
+    url="http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Global_Texture_Enhancement_for_Fake_Face_Detection_in_the_Wild_CVPR_2020_paper.pdf"
+    img_path="fake_real.png"
+    title="Global Texture Enhancement for Fake Face Detection in the Wild" 
+    author_list="Zhengzhe Liu, Xiaojuan Qi, Philip H.S. Torr"
+    published_in="IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020."
+%} 
 
 {%  include pub_item.html 
     url="https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf"
