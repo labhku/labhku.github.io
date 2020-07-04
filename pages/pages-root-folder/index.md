@@ -189,6 +189,8 @@ homepage: true
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skills are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
 
+    {% include news_item.html  date="4-July-2020" content="Four papers are accepted by ECCV 2020 with one Oral (2%) and one Spotlight (5%)." %}
+
     
       {% include news_item.html  date="1-Feb-2020" content="Our lab established!" %}
 
