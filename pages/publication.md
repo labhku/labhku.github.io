@@ -21,6 +21,36 @@ permalink: "/publication/"
 [[sort by date][1]]	[[sort by type][2]]
 
  {%  include pub_item.html 
+    url="https://arxiv.org/pdf/1911.13287.pdf"
+    img_path="din.png"
+    title="Domain-invariant Stereo Matching Networks" 
+    author_list="Feihu Zhang, Xiaojuan Qi, Ruigang Yang, Victor Prisacariu, Benjamin Wah, Philip Torr"
+    published_in="European Conference on Computer Vision (ECCV), 2020 (Oral)."
+%}
+
+ {%  include pub_item.html 
+    url="https://arxiv.org/pdf/2001.03905.pdf"
+    img_path="self.png"
+    title="Few-shot Action Recognition via Improved Attention with Self-supervision" 
+    author_list="Hongguang Zhang, Li Zhang, Xiaojuan Qi, Hongdong Li, Philip H. S. Torr, Piotr Koniusz3"
+    published_in="European Conference on Computer Vision (ECCV), 2020 (Spotlight)."
+%}
+
+ {%  include pub_item.html 
+    img_path="memoryvideo.png"
+    title="Memory Selection Network for Video Propagation" 
+    author_list="Ruizheng Wu^, Huaijia Lin^, Xiaojuan Qi, Jiaya Jia"
+    published_in="European Conference on Computer Vision (ECCV), 2020."
+%}
+
+ {%  include pub_item.html 
+    img_path="cn.png"
+    title="CN: Channel Normalization For Point Cloud Recognition" 
+    author_list="Zetong Yang, Yanan Sun, Shu Liu, Xiaojuan Qi, Jiaya Jia"
+    published_in="European Conference on Computer Vision (ECCV), 2020."
+%}
+
+ {%  include pub_item.html 
     url="https://arxiv.org/pdf/2001.04982.pdf"
     img_path="panoptic.png"
     title="Unifying Training and Inference for Panoptic Segmentation" 
