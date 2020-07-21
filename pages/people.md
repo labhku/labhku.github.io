@@ -87,6 +87,8 @@ permalink: "/people/"
 	    {% include undergraduate.html url = "" name="Ruifei He" affil="B.E. at ZJU" %}
 
         {% include undergraduate.html url = "" name="Qihao Huang" affil="M.S. at HKU" %}
+	
+	{% include undergraduate.html url = "" name="Jianwei Loh" affil="B.E. at HKU" %}
 
 		{% include undergraduate.html url = "" name="Chexuan Qiao" affil="B.E. at HKU" %}
 
