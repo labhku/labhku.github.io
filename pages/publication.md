@@ -21,15 +21,16 @@ permalink: "/publication/"
 [[sort by date][1]]	[[sort by type][2]]
 
  {%  include pub_item.html 
-    url="https://arxiv.org/pdf/1911.13287.pdf"
+    url="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470409.pdf"
     img_path="din.png"
     title="Domain-invariant Stereo Matching Networks" 
+    code_url="https://github.com/feihuzhang/DSMNet"
     author_list="Feihu Zhang, Xiaojuan Qi, Ruigang Yang, Victor Prisacariu, Benjamin Wah, Philip Torr"
     published_in="European Conference on Computer Vision (ECCV), 2020 (Oral)."
 %}
 
  {%  include pub_item.html 
-    url="https://arxiv.org/pdf/2001.03905.pdf"
+    url="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500511.pdf"
     img_path="self.png"
     title="Few-shot Action Recognition via Improved Attention with Self-supervision" 
     author_list="Hongguang Zhang, Li Zhang, Xiaojuan Qi, Hongdong Li, Philip H. S. Torr, Piotr Koniusz3"
@@ -38,6 +39,7 @@ permalink: "/publication/"
 
  {%  include pub_item.html 
     img_path="memoryvideo.png"
+    url="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600171.pdf"
     title="Memory Selection Network for Video Propagation" 
     author_list="Ruizheng Wu^, Huaijia Lin^, Xiaojuan Qi, Jiaya Jia"
     published_in="European Conference on Computer Vision (ECCV), 2020."
@@ -45,6 +47,7 @@ permalink: "/publication/"
 
  {%  include pub_item.html 
     img_path="cn.png"
+    url="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550596.pdf"
     title="CN: Channel Normalization For Point Cloud Recognition" 
     author_list="Zetong Yang, Yanan Sun, Shu Liu, Xiaojuan Qi, Jiaya Jia"
     published_in="European Conference on Computer Vision (ECCV), 2020."
@@ -88,6 +91,7 @@ permalink: "/publication/"
 {%  include pub_item.html 
     url="http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_AGSS-VOS_Attention_Guided_Single-Shot_Video_Object_Segmentation_ICCV_2019_paper.pdf"
     img_path="agssvos.png"
+    code_url="https://github.com/Jia-Research-Lab/AGSS-VOS"
     title="AGSS-VOS: Attention Guided Single-Shot Video Object Segmentation" 
     author_list="Huaijia Lin, Xiaojuan Qi, Jiaya Jia"
     published_in="IEEE International Conference on Computer Vision (ICCV), 2019."
