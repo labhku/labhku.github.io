@@ -172,6 +172,8 @@ homepage: true
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skills are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
 
+    {% include news_item.html  date="27-Sep-2020" content="One paper is accepted to NeurIPS." %}
+
     {% include news_item.html  date="12-July-2020" content="One paper is accepted to TPAMI." %}
 
     {% include news_item.html  date="4-July-2020" content="Four papers are accepted to ECCV 2020 with one Oral (2%) and one Spotlight (5%)." %}
@@ -192,6 +194,8 @@ homepage: true
     {% include news_item.html 
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skills are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
+
+  {% include news_item.html  date="27-Sep-2020" content="One paper is accepted to NeurIPS." %}
 
     {% include news_item.html  date="12-July-2020" content="One paper is accepted to TPAMI." %}
 
