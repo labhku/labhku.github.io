@@ -88,8 +88,8 @@ homepage: true
              url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Semi-Parametric_Image_Synthesis_CVPR_2018_paper.pdf" 
              image="images/images_for_pub/data_efficient.png" 
              alt="Data-efficient Deep Learning" 
-             title="Data-efficient Deep Learning" 
-             caption="We are interested in high-quality data synthesis methods, efficient image annotation systems, and label-efficient learning strategies (e.g. self-supervised learning, weakly supervised learning, domain adaptation, and semi-supervised learning, etc)." %}
+             title="Data-efficient and Computation-efficient Deep Learning" 
+             caption="We are interested in developing computation-efficent deep learning algorithms and data-efficient deep learning methods including high-quality data synthesis methods, efficient image annotation systems, label-efficient learning strategies (e.g. self-supervised learning, weakly supervised learning, domain adaptation, and semi-supervised learning, etc)." %}
 
           {% include carousel_item.html  
              url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf" 
@@ -139,8 +139,8 @@ homepage: true
              url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Semi-Parametric_Image_Synthesis_CVPR_2018_paper.pdf" 
              image="images/images_for_pub/data_efficient.png" 
              alt="Data-efficient Deep Learning" 
-             title="Data-efficient Deep Learning" 
-             caption="We are interested in high-quality data synthesis methods, efficient image annotation systems, and label-efficient learning strategies (e.g. self-supervised learning, weakly supervised learning, domain adaptation, and semi-supervised learning, etc)." %}
+             title="Data-efficient and Computation-efficient Deep Learning" 
+             caption="We are interested in developing computation-efficent deep learning algorithms and data-efficient deep learning methods including high-quality data synthesis methods, efficient image annotation systems, label-efficient learning strategies (e.g. self-supervised learning, weakly supervised learning, domain adaptation, and semi-supervised learning, etc)." %}
 
           {% include carousel_item.html  
              url="http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf" 
