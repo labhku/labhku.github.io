@@ -222,7 +222,7 @@ homepage: true
 <div class="pc" style="margin-left: 2%">
 Our research aims at endowing machines with the capability to perceive, understand, and reconstruct the visual world with the following focuses: 
  <ul> 
-  <li>developing scalable and label-efficient deep learning algorithms for natural and medical image analysis;</li>
+  <li>developing scalable computation-efficient and label-efficient deep learning algorithms for natural and medical image analysis;</li>
   <li>designing effective techniques for 3D scene understanding and reconstruction;</li>
   <li>understanding the behaviors of deep neural networks in handling out-of-distribution data.</li>
  </ul>
