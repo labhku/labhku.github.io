@@ -67,7 +67,7 @@ permalink: "/people/"
 	
 	<div class="row">
 
-		{% include member.html photo="../images/people/mutian.jpg" name="Mutian Xu, RA" title="B.E., Xidian M.S., UC Irvine" homepage="https://mutianxu.github.io/" %}
+		{% include member.html photo="../images/people/xiang.jpg" name="Xiang LI, RA" title="B.E., HKUST" %}
 
 	</div>
 	
@@ -82,6 +82,8 @@ permalink: "/people/"
 	</div>
 
 	<div class="">
+
+            {% include undergraduate.html url = "" name="Jialong Li" affil="B.E. at HKU" %}
 	    {% include undergraduate.html url = "" name="Cendra Julio Fernando" affil="B.E. at HKU" %}
 
 	    {% include undergraduate.html url = "" name="Ruifei He" affil="B.E. at ZJU" %}
@@ -107,6 +109,8 @@ permalink: "/people/"
 	</div>
 
 	<div class="">
+           
+    {% include collaborator.html url = "https://mutianxu.github.io/" name="Mutian Xu" affil="Ph.D. at CUHKSZ" %}
 	   {% include collaborator.html url = "https://www.linkedin.com/in/botos-csaba/" name="Csaba Botos" affil="Ph.D. at Oxford" %}
     
        {% include collaborator.html url = "https://mrlibw.github.io/" name="Bowen Li" affil="Ph.D. at Oxford" %}
