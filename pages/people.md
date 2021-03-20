@@ -15,7 +15,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3>Faculty</h3>
+		<h3>Principal Investigator</h3>
 		<br/>
 	</div>
 	
@@ -48,7 +48,7 @@ permalink: "/people/"
 
 	<div class="row">
 	
-		{% include member.html photo="../images/people/andong.jpg" name="Runyu Ding (Co-supervise with Dr. Wei-Ning Lee), Ph.D., HKPF" title="B.E., Tsinghua" %}
+		{% include member.html photo="../images/people/andong.jpg" name="Andong Wang (Co-supervise with Dr. Wei-Ning Lee), Ph.D., HKPF" title="B.E., Tsinghua" %}
 
 		{% include member.html photo="" name="" title="" %}
 
