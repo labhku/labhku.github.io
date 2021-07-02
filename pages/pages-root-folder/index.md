@@ -226,6 +226,6 @@ Our research aims at endowing machines with the capability to perceive, understa
  <ul> 
   <li>developing scalable computation-efficient and label-efficient deep learning algorithms for natural and medical image analysis;</li>
   <li>designing effective techniques for 3D scene understanding and reconstruction;</li>
-  <li>understanding the behaviors of deep neural networks in handling out-of-distribution data.</li>
+  <li>building lifelong learning machines that can learn continuously, transfer previous knowledge adn discover novel concepts (through interaction).</li>
  </ul>
 </div>
