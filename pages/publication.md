@@ -20,6 +20,71 @@ permalink: "/publication/"
 
 [[sort by date][1]]	[[sort by type][2]]
 
+{%  include pub_item.html 
+    url="https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_ST3D_Self-Training_for_Unsupervised_Domain_Adaptation_on_3D_Object_Detection_CVPR_2021_paper.pdf"
+    img_path="paconv.png"
+    title="ST3D: Self-training for Unsupervised Domain Adaptation on 3D ObjectDetection" 
+    code_url="https://github.com/CVMI-Lab/ST3D"
+    author_list="Jihan Yang^, Shaoshuai Shi^, Zhe Wang, Hongsheng Li, Xiaojuan Qi"
+    published_in="IEEE Conference on Computer Vision and pattern Recognition (CVPR), 2021."
+%}
+
+
+{%  include pub_item.html 
+    url="https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf"
+    img_path="paconv.png"
+    title="PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds " 
+    code_url="https://github.com/CVMI-Lab/PAConv"
+    author_list="Mutian Xu^, Runyu Ding^, Hengshuang Zhao, Xiaojuan Qi"
+    published_in="IEEE Conference on Computer Vision and pattern Recognition (CVPR), 2021."
+%}
+
+
+{%  include pub_item.html 
+    url="https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_3D-to-2D_Distillation_for_Indoor_Scene_Parsing_CVPR_2021_paper.pdf"
+    img_path="3d-2d.png"
+    title="3D-to-2D Distillation for Indoor Scene Parsing" 
+    code_url="https://github.com/liuzhengzhe/3D-to-2D-Distillation-for-Indoor-Scene-Parsing"
+    author_list="Zhengzhe Liu, Xiaojuan Qi, Chi-Wing Fu"
+    published_in="IEEE Conference on Computer Vision and pattern Recognition (CVPR), 2021 (Oral)."
+%}
+
+{%  include pub_item.html 
+    url="https://arxiv.org/pdf/2012.00720.pdf"
+    img_path="panoptic21.png"
+    title="Fully Convolutional Networks for Panoptic Segmentation " 
+    code_url="https://github.com/dvlab-research/PanopticFCN"
+    author_list="Yanwei Li, Hengshuang Zhao, Xiaojuan Qi, Liwei Wang, Zeming Li, Jian Sun, Jiaya Jia"
+    published_in="IEEE Conference on Computer Vision and pattern Recognition (CVPR), 2021 (Oral)."
+%}
+
+ {%  include pub_item.html 
+    url="https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_One_Thing_One_Click_A_Self-Training_Approach_for_Weakly_Supervised_CVPR_2021_paper.pdf"
+    img_path="weakly3D.png"
+    title="One Thing One Click: A Self-Training Approach for Weakly Supervised 3D Semantic Segmentation" 
+    code_url="https://github.com/liuzhengzhe/One-Thing-One-Click"
+    author_list="Zhengzhe Liu, Xiaojuan Qi, Chi-Wing Fu"
+    published_in="IEEE Conference on Computer Vision and pattern Recognition (CVPR), 2021."
+%}
+
+ {%  include pub_item.html 
+    url="https://papers.nips.cc/paper/2020/file/fae0b27c451c728867a567e8c1bb4e53-Paper.pdf"
+    img_path="lightweight.png"
+    title="Lightweight Generative Adversarial Networks forText-Guided Image Manipulation" 
+    code_url="https://github.com/feihuzhang/DSMNet"
+    author_list="Bowen Li, Xiaojuan Qi, Philip H.S. Torr, Thomas Lukasiewicz"
+    published_in="Conference on Neural Information Processing Systems (NeurIPS), 2020."
+%}
+
+ {%  include pub_item.html 
+    url="https://ieeexplore.ieee.org/abstract/document/9184024"
+    img_path="geonet++.png"
+    title="GeoNet++: Iterative Geometric Neural Network with Edge-Aware Refinement for Joint Depth and Surface Normal Estimation" 
+    code_url="https://github.com/xjqi/GeoNet"
+    author_list="Xiaojuan Qi^, Zhengzhe Liu^, Renjie Liao, Philip H. S. Torr, Raquel Urtasun, Jiaya Jia"
+    published_in="IEEE Transaction on Pattern Recognition and Machine Intelligence, 2020 (Accepted)."
+%}
+
  {%  include pub_item.html 
     url="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470409.pdf"
     img_path="din.png"
