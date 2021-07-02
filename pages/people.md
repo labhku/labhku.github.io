@@ -33,22 +33,37 @@ permalink: "/people/"
 		<h3 class="medium-12">Postgraduate Students</h3>
 		<br/>
 	</div>
-	
+
 	<div class="row">
 
-		{% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D." title="B.E., M.E., UESTC" %}
+		{% include member.html photo="../images/people/anlin.jpg" name="Anlin Zheng, Ph.D." title="2021 - " %}
 
-		{% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D., HKPF" title="B.E., Tsinghua" %}
+		{% include member.html photo="../images/people/jiaqi.jpg" name="Jiaqi Zhang, Ph.D. (Joint Programme, co-supervise with Prof. Jiang Liu)" title="2021 - " %}
 
-		{% include member.html photo="../images/people/xiuzhe.jpg" name="Xiuzhe Wu, Ph.D." title="B.S., M.S., Tongji" %}
+		{% include member.html photo="../images/people/jianhui.jpg" name="Jianhui Liu, Ph.D. (Joint Programme)" title=" 2021 - " %}
 
-		{% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang, Ph.D." title="B.E., SYSU" %}
+		{% include member.html photo="../images/people/ruifei.jpg" name="Ruifei He, Ph.D. (HKPF)" title="2021 - " %}
+
+	</div>
+	
+	<div class="row">
+     
+        {% include member.html photo="../images/people/wenxin.jpg" name="Xin Wen, Ph.D. (Joint Programme)" title="2021 - " %}
+		
+
+		{% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D." title=" 2020 - " %}
+
+		{% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D., HKPF" title="2020 - " %}
+
+		{% include member.html photo="../images/people/xiuzhe.jpg" name="Xiuzhe Wu, Ph.D." title="2020 - " %}	
 
 	</div>
 
 	<div class="row">
+
+	    {% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang, Ph.D." title="2020 - " %}
 	
-		{% include member.html photo="../images/people/andong.jpg" name="Andong Wang (Co-supervise with Dr. Wei-Ning Lee), Ph.D., HKPF" title="B.E., Tsinghua" %}
+		{% include member.html photo="../images/people/andong.jpg" name="Andong Wang (Co-supervise with Dr. Wei-Ning Lee), Ph.D., HKPF" title="2019 - " %}
 
 		{% include member.html photo="" name="" title="" %}
 
@@ -67,8 +82,6 @@ permalink: "/people/"
 	
 	<div class="row">
 
-		{% include member.html photo="../images/people/xiang.jpg" name="Xiang LI, RA" title="B.E., HKUST" %}
-
 	</div>
 	
 </div>
@@ -83,20 +96,11 @@ permalink: "/people/"
 
 	<div class="">
 
-            {% include undergraduate.html url = "" name="Jialong Li" affil="B.E. at HKU" %}
+        {% include undergraduate.html url = "" name="Jialong Li" affil="B.E. at HKU" %}
+
 	    {% include undergraduate.html url = "" name="Cendra Julio Fernando" affil="B.E. at HKU" %}
 
-	    {% include undergraduate.html url = "" name="Ruifei He" affil="B.E. at ZJU" %}
-
-        {% include undergraduate.html url = "" name="Qihao Huang" affil="M.S. at HKU" %}
-	
-	{% include undergraduate.html url = "" name="Jianwei Loh" affil="B.E. at HKU" %}
-
-		{% include undergraduate.html url = "" name="Chexuan Qiao" affil="B.E. at HKU" %}
-
-	    {% include undergraduate.html url = "" name="Mingqiao Ye" affil="B.E. at ZJU" %}
-
-	    {% include undergraduate.html url = "" name="Yuzhe Zhou" affil="M.S. at HKU" %}
+	   
 	</div>
 </div>
 
@@ -109,8 +113,16 @@ permalink: "/people/"
 	</div>
 
 	<div class="">
-           
-    {% include collaborator.html url = "https://mutianxu.github.io/" name="Mutian Xu" affil="Ph.D. at CUHKSZ" %}
+
+	    {% include undergraduate.html url = "" name="Qihao Huang" affil="M.S. at HKU" %}
+
+	    {% include undergraduate.html url = "" name="Jianwei Loh" affil="B.E. at HKU" %}
+
+		{% include undergraduate.html url = "" name="Chexuan Qiao" affil="B.E. at HKU" %}
+
+        {% include undergraduate.html url = "" name="Mingqiao Ye" affil="M.S. at ETH" %}
+
+       {% include collaborator.html url = "https://mutianxu.github.io/" name="Mutian Xu" affil="Ph.D. at CUHKSZ" %}
 	   {% include collaborator.html url = "https://www.linkedin.com/in/botos-csaba/" name="Csaba Botos" affil="Ph.D. at Oxford" %}
     
        {% include collaborator.html url = "https://mrlibw.github.io/" name="Bowen Li" affil="Ph.D. at Oxford" %}
@@ -125,6 +137,8 @@ permalink: "/people/"
 
 
        {% include collaborator.html url = "https://hszhao.github.io/" name="Hengshuang Zhao" affil="Ph.D. at CUHK" %}
+
+       {% include collaborator.html url = "https://hszhao.github.io/" name="Xiang Li" affil="Ph.D. at CUHK" %}
 
 	</div>
 </div>
