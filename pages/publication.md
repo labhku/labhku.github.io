@@ -22,7 +22,7 @@ permalink: "/publication/"
 
 {%  include pub_item.html 
     url="https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_ST3D_Self-Training_for_Unsupervised_Domain_Adaptation_on_3D_Object_Detection_CVPR_2021_paper.pdf"
-    img_path="paconv.png"
+    img_path="3Ddomain.png"
     title="ST3D: Self-training for Unsupervised Domain Adaptation on 3D ObjectDetection" 
     code_url="https://github.com/CVMI-Lab/ST3D"
     author_list="Jihan Yang^, Shaoshuai Shi^, Zhe Wang, Hongsheng Li, Xiaojuan Qi"
