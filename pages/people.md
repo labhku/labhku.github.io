@@ -47,10 +47,9 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-     
-        {% include member.html photo="../images/people/wenxin.jpg" name="Xin Wen, Ph.D. (Joint Programme)" title="2021 - " %}
-		
-
+    
+       {% include member.html photo="../images/people/wenxin.jpg" name="Xin Wen, Ph.D. (Joint Programme)" title="2021 - " %}
+	
 		{% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D." title=" 2020 - " %}
 
 		{% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D., HKPF" title="2020 - " %}
@@ -64,8 +63,6 @@ permalink: "/people/"
 	    {% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang, Ph.D." title="2020 - " %}
 	
 		{% include member.html photo="../images/people/andong.jpg" name="Andong Wang (Co-supervise with Dr. Wei-Ning Lee), Ph.D., HKPF" title="2019 - " %}
-
-		{% include member.html photo="" name="" title="" %}
 
 		{% include member.html photo="" name="" title="" %}
 
@@ -99,8 +96,7 @@ permalink: "/people/"
         {% include undergraduate.html url = "" name="Jialong Li" affil="B.E. at HKU" %}
 
 	    {% include undergraduate.html url = "" name="Cendra Julio Fernando" affil="B.E. at HKU" %}
-
-	   
+   
 	</div>
 </div>
 
