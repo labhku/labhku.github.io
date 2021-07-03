@@ -50,10 +50,10 @@ permalink: "/people/"
 	<div class="row">
     
        {% include member.html photo="../images/people/wenxin.jpg" name="Xin Wen, Ph.D. (Joint Programme)" title="2021 - " %}
-
-       {% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang, Ph.D." title="2020 - " %}
 	
-	   {% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D." title=" 2020 - " %}
+	   {% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang, Ph.D." title="2020 - " %}
+
+	    {% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D." title=" 2020 - " %}
 
 	   {% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D., HKPF" title="2020 - " %}	
 
