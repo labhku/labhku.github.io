@@ -38,9 +38,10 @@ permalink: "/people/"
 
 		{% include member.html photo="../images/people/anlin.jpg" name="Anlin Zheng, Ph.D." title="2021 - " %}
 
+		{% include member.html photo="../images/people/jianhui.jpg" name="Jianhui Liu, Ph.D. (Joint Programme)" title=" 2021 - " %}
+
 		{% include member.html photo="../images/people/jiaqi.jpg" name="Jiaqi Zhang, Ph.D. (Joint Programme, co-supervise with Prof. Jiang Liu)" title="2021 - " %}
 
-		{% include member.html photo="../images/people/jianhui.jpg" name="Jianhui Liu, Ph.D. (Joint Programme)" title=" 2021 - " %}
 
 		{% include member.html photo="../images/people/ruifei.jpg" name="Ruifei He, Ph.D. (HKPF)" title="2021 - " %}
 
