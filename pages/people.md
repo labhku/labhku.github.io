@@ -96,6 +96,8 @@ permalink: "/people/"
         {% include undergraduate.html url = "" name="Jialong Li" affil="B.E. at HKU" %}
 
 	    {% include undergraduate.html url = "" name="Cendra Julio Fernando" affil="B.E. at HKU" %}
+
+	    {% include undergraduate.html url = "" name="Chuofan Ma" affil="B.E. at HKU" %}
    
 	</div>
 </div>
