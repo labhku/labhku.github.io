@@ -55,7 +55,7 @@ permalink: "/people/"
 
 	    {% include member.html photo="../images/people/daipeng.jpg" name="Peng Dai, Ph.D." title=" 2020 - " %}
 
-	   {% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D., HKPF" title="2020 - " %}	
+	   {% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D. (HKPF)" title="2020 - " %}	
 
 	</div>
 
@@ -63,7 +63,7 @@ permalink: "/people/"
 
 	    {% include member.html photo="../images/people/xiuzhe.jpg" name="Xiuzhe Wu, Ph.D." title="2020 - " %}
 	
-		{% include member.html photo="../images/people/andong.jpg" name="Andong Wang (Co-supervise with Dr. Wei-Ning Lee), Ph.D., HKPF" title="2019 - " %}
+		{% include member.html photo="../images/people/andong.jpg" name="Andong Wang, Ph.D. (HKPF, Co-supervise with Dr. Wei-Ning Lee)" title="2019 - " %}
 
 		{% include member.html photo="" name="" title="" %}
 
