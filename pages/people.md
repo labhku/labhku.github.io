@@ -65,9 +65,9 @@ permalink: "/people/"
 	
 		{% include member.html photo="../images/people/andong.jpg" name="Andong Wang, Ph.D. (HKPF, Co-supervise with Dr. Wei-Ning Lee)" title="2019 - " %}
 
-		{% include member.html photo="" name="" title="" %}
+		{% include member.html name="" title="" %}
 
-		{% include member.html photo="" name="" title="" %}
+		{% include member.html name="" title="" %}
 	</div>
 	
 </div>
@@ -151,12 +151,12 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-	{% include member.html photo="" name="" title="" %}
+	{% include member.html name="" title="" %}
 
-	{% include member.html photo="" name="" title="" %}
+	{% include member.html name="" title="" %}
 
-	{% include member.html photo="" name="" title="" %}
+	{% include member.html name="" title="" %}
 
-	{% include member.html photo="" name="" title="" %}
+	{% include member.html name="" title="" %}
     </div>	
 </div>
