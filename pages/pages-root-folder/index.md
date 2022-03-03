@@ -171,6 +171,11 @@ homepage: true
     {% include news_item.html 
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skills are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
+     
+    {% include news_item.html  date="3-Mar-2022" content="Nine papers are accepted to CVPR'21. Proud of my students and collobrators. Thank all team members to provide help during CVPR deadlines" %}
+     
+    {% include news_item.html  date="20-Aug-2021" content="Two papers are accepted to CVPR'21 with one Oral." %}
+
     {% include news_item.html  date="20-Mar-2021" content="Five papers are accepted to CVPR'21 with two Orals." %}
 
     {% include news_item.html  date="27-Sep-2020" content="One paper is accepted to NeurIPS." %}
@@ -195,6 +200,11 @@ homepage: true
     {% include news_item.html 
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skills are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
+   
+     {% include news_item.html  date="3-Mar-2022" content="Nine papers are accepted to CVPR'21. Proud of my students and collobrators. Thank all team members to provide help during CVPR deadlines" %}
+     
+    {% include news_item.html  date="20-Aug-2021" content="Two papers are accepted to CVPR'21 with one Oral." %}
+
    {% include news_item.html  date="20-Mar-2021" content="Five papers are accepted to CVPR'21 with two Orals." %}
 
   {% include news_item.html  date="27-Sep-2020" content="One paper is accepted to NeurIPS." %}
