@@ -174,7 +174,7 @@ homepage: true
      
      {% include news_item.html  date="3-Mar-2022" content="Nine papers are accepted to CVPR'22. Proud of my students and collaborators. Thank all team members for providing support during the CVPR deadline. Codes will be released soon!" %}
      
-    {% include news_item.html  date="20-Aug-2021" content="Two papers are accepted to CVPR'21 with one Oral." %}
+    {% include news_item.html  date="20-Aug-2021" content="Two papers are accepted to ICCV'21 with one Oral." %}
 
     {% include news_item.html  date="20-Mar-2021" content="Five papers are accepted to CVPR'21 with two Orals." %}
 
@@ -203,7 +203,7 @@ homepage: true
    
      {% include news_item.html  date="3-Mar-2022" content="Nine papers are accepted to CVPR'22. Proud of my students and collaborators. Thank all team members for providing support during the CVPR deadline. Codes will be released soon!" %}
      
-    {% include news_item.html  date="20-Aug-2021" content="Two papers are accepted to CVPR'21 with one Oral." %}
+    {% include news_item.html  date="20-Aug-2021" content="Two papers are accepted to ICCV'21 with one Oral." %}
 
    {% include news_item.html  date="20-Mar-2021" content="Five papers are accepted to CVPR'21 with two Orals." %}
 
