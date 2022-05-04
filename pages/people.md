@@ -53,7 +53,7 @@ permalink: "/people/"
 		
 		{% include member.html photo="../images/people/anlin.jpg" name="Anlin Zheng, Ph.D." title="2021 - " %}
 
-		{% include member.html photo="../images/people/jianhui.jpg" name="Jianhui Liu, Ph.D." title=" 2022 - " %}
+		{% include member.html photo="../images/people/jianhui.jpg" name="Jianhui Liu, Ph.D." title=" 2021 - " %}
 
 		{% include member.html photo="../images/people/jiaqi.jpg" name="Jiaqi Zhang, Ph.D. (co-supervise with Prof. Jiang Liu)" title="2021 - " %}
 
