@@ -172,6 +172,8 @@ homepage: true
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skills are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
       
+      {% include news_item.html  date="22-Jan-2023" content="Three papers are accepted to ICLR with two spotlight papers. Congratulations to my students and collaborators. Codes will be released soon!" %}
+      
       {% include news_item.html  date="18-Sept.-2022" content="Two papers are accepted to TPAMI. Congratulations to my students and collaborators. Codes will be released soon!" %}
       
       {% include news_item.html  date="17-Sept.-2022" content="Six papers are accepted to NeurIPS'22. Congratulations to my students and collaborators. Codes will be released soon!" %}
@@ -207,7 +209,7 @@ homepage: true
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at HKU in computer vision and deep learning. Candidates with strong academic background and/or solid programming skills are highly preferred. Click <a href=\"recruitment\"><strong>here</strong></a> to see more details." %}
       
-     {% include news_item.html  date="18-Sept.-2022" content="Two papers are accepted to TPAMI. Congratulations to my students and collaborators. Codes will be released soon!" %}
+     {% include news_item.html  date="22-Jan.-2023" content="Three papers are accepted to ICLR with two spotlight papers. Congratulations to my students and collaborators. Codes will be released soon!" %}
        
       {% include news_item.html  date="17-Sept.-2022" content="Six papers are accepted to NeurIPS'22. Congratulations to my students and collaborators. Codes will be released soon!" %}
    
