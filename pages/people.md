@@ -36,26 +36,28 @@ permalink: "/people/"
 	
 		<div class="row">
 
+		{% include member.html photo="../images/people/chixiang.jpg" name="Chixiang Lu, Ph.D. (co-supervise with Prof. Haibo Jiang)" title="2022 - " %}
+			
 		{% include member.html photo="../images/people/chuofan.jpeg" name="Chuofan Ma, Ph.D. (HKU-PS)" title="2022 - " %}
 			
 		{% include member.html photo="../images/people/jiahui.png" name="Jiahui Liu, MPhil" title=" 2022 - " %}
 		
 	        {% include member.html photo="../images/people/shizhen.jpg" name="Shizhen Zhao, Ph.D." title="2022 - " %}
-		
-		{% include member.html photo="../images/people/xiaoyang.jpg" name="Xiaoyang Lyu, Ph.D. (HKPF)" title="2022 - " %}
-				
+					
 
 	</div>
 
 	<div class="row">
                 
+		{% include member.html photo="../images/people/xiaoyang.jpg" name="Xiaoyang Lyu, Ph.D. (HKPF)" title="2022 - " %}
+		
 		{% include member.html photo="../images/people/yuxin.jpg" name="Xin Yu, Ph.D." title="2022 - " %}
 		
 		{% include member.html photo="../images/people/anlin.jpg" name="Anlin Zheng, Ph.D." title="2021 - " %}
 
 		{% include member.html photo="../images/people/jianhui.jpg" name="Jianhui Liu, Ph.D." title=" 2021 - " %}
 
-		{% include member.html photo="../images/people/jiaqi.jpg" name="Jiaqi Zhang, Ph.D. (co-supervise with Prof. Jiang Liu)" title="2021 - " %}
+		
 
 
 		
@@ -63,19 +65,21 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-	
+	        
+		{% include member.html photo="../images/people/jiaqi.jpg" name="Jiaqi Zhang, Ph.D. (co-supervise with Prof. Jiang Liu)" title="2021 - " %}
+		
 		{% include member.html photo="../images/people/ruifei.jpg" name="Ruifei He, Ph.D. (HKPF)" title="2021 - " %}
     
        {% include member.html photo="../images/people/wenxin.jpg" name="Xin Wen, Ph.D." title="2021 - " %}
 	
 	   {% include member.html photo="../images/people/jihan.jpg" name="Jihan Yang, Ph.D." title="2020 - " %}
 
-	    {% include member.html photo="../images/people/daipeng.jpeg" name="Peng Dai, Ph.D." title=" 2020 - " %}
-
 
 	</div>
 
 	<div class="row">
+	  
+	  {% include member.html photo="../images/people/daipeng.jpeg" name="Peng Dai, Ph.D." title=" 2020 - " %}
 	
 	   {% include member.html photo="../images/people/runyu.jpg" name="Runyu Ding, Ph.D. (HKPF)" title="2020 - " %}	
 
