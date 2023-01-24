@@ -36,7 +36,7 @@ permalink: "/people/"
 	
 		<div class="row">
 
-		{% include member.html photo="../images/people/chixiang.jpg" name="Chixiang Lu, Ph.D. (co-supervise with Prof. Haibo Jiang)" title="2022 - " %}
+		{% include member.html photo="../images/people/chixiang.jpg" name="Chixiang Lu, Ph.D. (co-supervise with Dr. Haibo Jiang)" title="2022 - " %}
 			
 		{% include member.html photo="../images/people/chuofan.jpeg" name="Chuofan Ma, Ph.D. (HKU-PS)" title="2022 - " %}
 			
